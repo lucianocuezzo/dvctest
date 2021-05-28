@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/lucia/Documents/Laburo/dvctesting/mlruns/0/d6c1b3bb04ff43fb904f838bce428042/artifacts
+end_time: 1622144622029
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: d6c1b3bb04ff43fb904f838bce428042
+run_uuid: d6c1b3bb04ff43fb904f838bce428042
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1622144617645
+status: 3
+tags: []
+user_id: lucia
